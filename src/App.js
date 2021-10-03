@@ -1,6 +1,6 @@
 
 import './App.css';
-import Welcome from './components/welcome';
+import Welcome from './welcome';
 const App = () => {
   let name = "Madan";
   return (
