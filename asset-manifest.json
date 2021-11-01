@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Madanaa/greeting/static/css/main.a617e044.chunk.css",
+    "main.js": "/Madanaa/greeting/static/js/main.eb899680.chunk.js",
+    "main.js.map": "/Madanaa/greeting/static/js/main.eb899680.chunk.js.map",
+    "runtime-main.js": "/Madanaa/greeting/static/js/runtime-main.5633913d.js",
+    "runtime-main.js.map": "/Madanaa/greeting/static/js/runtime-main.5633913d.js.map",
+    "static/js/2.75b94c7e.chunk.js": "/Madanaa/greeting/static/js/2.75b94c7e.chunk.js",
+    "static/js/2.75b94c7e.chunk.js.map": "/Madanaa/greeting/static/js/2.75b94c7e.chunk.js.map",
+    "static/js/3.b4bf7d82.chunk.js": "/Madanaa/greeting/static/js/3.b4bf7d82.chunk.js",
+    "static/js/3.b4bf7d82.chunk.js.map": "/Madanaa/greeting/static/js/3.b4bf7d82.chunk.js.map",
+    "index.html": "/Madanaa/greeting/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Madanaa/greeting/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.75b94c7e.chunk.js.LICENSE.txt": "/Madanaa/greeting/static/js/2.75b94c7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5633913d.js",
+    "static/js/2.75b94c7e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eb899680.chunk.js"
+  ]
+}
